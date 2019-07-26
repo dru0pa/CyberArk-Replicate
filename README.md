@@ -3,7 +3,9 @@ Backup of the Safes from MySQL database from Cyberark
 This makes use of sending email to send the backup out.
 
 Here are some changes to be made in down the line:
+
 -Always put all your variables at the top before any actual code starts, except where you declare a Variable that requires some code:
+
 -Like to get the date/time or something small, not a huge Function.
 
 -Limiting the user no to go through the whole program also limits mistakes they can make between actual code.
