@@ -2,7 +2,7 @@
 # Script  : CyberArkBackup.ps1
 # Author  : Robert (Rob) Waight
 # Date    : 10/23/2018
-# Version : 1.2
+# Version : 0.2
 # Keywords: PAReplicate, CyberArk, Backup
 # Comments: Use PowerShell to execute PAReplicate (the CyberArk Backup utility)
 #            this is used to ensure CyberArk backups are scheduled and executed.
