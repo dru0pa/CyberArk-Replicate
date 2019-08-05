@@ -19,9 +19,9 @@ $Elapsed = [System.Diagnostics.Stopwatch]::StartNew()
 
 # Create Email Variables, will send mail anonymously -- only if environment allows anon SMTP
     $serv=$env:computername
-    $mTo="pricea@telkom.co.za"
-    $mFrom="cyberArk@telkom.co.za"
-    $mSMTP="165.143.12.26"
+    $mTo="test1@com.za"
+    $mFrom="test@com.za"
+    $mSMTP="11.1.1.1"
     # Configure anonymous credentials
     #$anonUser = "anonymous"
     #$anonPass = ConvertTo-SecureString "anonymous" -AsPlainText -Force
